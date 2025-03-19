@@ -37,8 +37,11 @@ Tecnologías Utilizadas
 - Muestra el resultado en la pantalla.
 
 ## Captura de Pantalla
-*(Agrega una imagen aquí si es necesario)*
+
+
+![image](https://github.com/user-attachments/assets/a67993fe-fb45-4767-a8f8-635040f99ba9)
 
 ## Licencia
 Este proyecto es de código abierto y está disponible bajo la licencia MIT.
+
 

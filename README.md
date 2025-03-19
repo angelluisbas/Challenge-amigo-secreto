@@ -16,7 +16,7 @@ Tecnologías Utilizadas
 │── 📄 style.css    # Archivo de estilos para la página
 │── 📄 app.js       # Lógica del juego en JavaScript
 │── 📄 README.md    # Documentación del proyecto
-```
+
 
 ## Uso
 1. Escribe un nombre en el campo de entrada.
